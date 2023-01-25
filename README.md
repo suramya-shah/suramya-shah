@@ -1,5 +1,10 @@
 ### Hi there 👋
-[![Suramya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suramya-shah)](https://github.com/suramya-shah/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suramya-shah &theme=radical)
+
+9
+
+
+Reply
 <!--
 **suramya-shah/suramya-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
