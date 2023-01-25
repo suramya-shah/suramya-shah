@@ -1,8 +1,8 @@
 ### Hi there 👋
-![GitHub Stats](https://github-readme-stats-theta-liard-45.vercel.app/api?username=suramya-shah&theme=radical)
+
 <!--
 **suramya-shah/suramya-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![GitHub Stats](https://github-readme-stats-theta-liard-45.vercel.app/api?username=suramya-shah&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
