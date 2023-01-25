@@ -2,8 +2,6 @@
 ![GitHub Stats](https://github-readme-stats-theta-liard-45.vercel.app/api?username=suramya-shah&theme=radical)
 
 9
-
-
 Reply
 <!--
 **suramya-shah/suramya-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
